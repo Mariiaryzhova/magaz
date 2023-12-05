@@ -1,0 +1,100 @@
+[
+  {
+    "id": "1",
+    "title": "Beauty-батончик",
+    "vendor_code": "111",
+    "description": "Вкус лесные ягоды, 50 г",
+    "price": 160,
+    "img": "baton1.png"
+  },
+  {
+    "id": "2",
+    "title": "Батончик Banana",
+    "vendor_code": "222",
+    "description": "Вкус вишня и банан, 50 г",
+    "price": 170,
+    "img": "baton2.png"
+  },
+  {
+    "id": "3",
+    "title": "Detox-батончик",
+    "vendor_code": "333",
+    "description": "Вкус манго, 50 г",
+    "price": 160,
+    "img": "baton3.png"
+  },
+  {
+    "id": "4",
+    "title": "Calcium-батончик",
+    "vendor_code": "444e",
+    "description": "Вкус кокос, 50 г",
+    "price": 160,
+    "img": "baton4.png"
+  }
+  ,
+  {
+    "id": "5",
+    "title": "Antiox Drink с куркумином",
+    "vendor_code": "4445e",
+    "description": "Вкус облепиха и корица, 8 шт по 10 г",
+    "price": 620,
+    "img": "drink1.png"
+  },
+  {
+    "id": "6",
+    "title": "Young&Beauty Напиток",
+    "vendor_code": "4446e",
+    "description": "5 порций по 10 г",
+    "price": 530,
+    "img": "drink2.png"
+  },
+  {
+    "id": "7",
+    "title": "Питательный коктейль",
+    "vendor_code": "4447e",
+    "description": "Вкус кокосовое печенье, 7 порций по 25 г",
+    "price": 1350,
+    "img": "drink5.png"
+  },
+  {
+    "id": "8",
+    "title": "Turbo чай очищающий",
+    "vendor_code": "4448e",
+    "description": "30 фильтр-пакетов",
+    "price": 220,
+    "img": "drink4.png"
+  },
+  {
+    "id": "9",
+    "title": "Питательный коктейль",
+    "vendor_code": "444e",
+    "description": "Вкус какао и имбирь, 7 саше",
+    "price": 1300,
+    "img": "drink6.png"
+  }
+  ,
+  {
+    "id": "10",
+    "title": "Beauty-мармелад без сахара",
+    "vendor_code": "44410e",
+    "description": "Вкус облепиха, 90 г",
+    "price": 295,
+    "img": "marm5.png"
+  },
+  {
+    "id": "11",
+    "title": "Натуральный мармелад",
+    "vendor_code": "44411e",
+    "description": "Вкус малина и шиповник, 90 г",
+    "price": 310,
+    "img": "marm3.png"
+  },
+  {
+    "id": "12",
+    "title": "Натуральный мармелад",
+    "vendor_code": "555",
+    "description": "Вкус черная смородина, 90 г",
+    "price": 270,
+    "img": "marm4.png"
+  }
+]
